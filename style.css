@@ -141,7 +141,7 @@ input{
     grid-template-columns: repeat(auto-fit,minmax(270px 1fr));
  }
   .box{
-height: 750px;
+height: 794px;
 padding: 20px;
 text-align: center;
 border-radius: 5px;
